@@ -1,3 +1,3 @@
 # demo
 This is my first git repo. <br>
-Author - Hariom karna
+Author - Hariom karna (Harsha)
